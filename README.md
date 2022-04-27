@@ -7,7 +7,7 @@
 - 👨‍🎓 I have a degree in Psychology ...
 - 👨‍🎓 I am currently studying Cognitive Science ...
 
-  ##
+ ##
   
  <div> 
 <!--
