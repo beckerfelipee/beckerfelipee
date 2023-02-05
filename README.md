@@ -6,9 +6,9 @@
 ‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe, but some people know me by "Kiko"... <br>
 ‎ ‎ ‎ ‎ ‎ 🧠 I'm fascinated by the power of the human mind ... <br>
 ‎ ‎ ‎ ‎ ‎ 🎓 I have a degree in Psychology, currently studying Cognitive Science. <br>
-‎ ‎ ‎ ‎ ‎ 🚀 My passion for programming began with *Java*... <br>
-‎ ‎ ‎ ‎ ‎ 🐍 And Python is therapeutic for me... <br>
+‎ ‎ ‎ ‎ ‎ 🐍 Python is my therapy, but i'm always exploring other languages... <br>
 ‎ ‎ ‎ ‎ ‎ 🤖 I have interest in AI and Machine Learning ... <br>
+‎ ‎ ‎ ‎ ‎ 🤖 Working in progress ... <br>
 
 
  ##
