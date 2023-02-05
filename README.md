@@ -3,12 +3,13 @@
 <img align="left" alt="Kiko-pic" height="180" src="https://cdn.discordapp.com/attachments/887771238678810716/1071848220172496966/Kikope.gif">
 
 <br>
-‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe Becker dos Santos... <br>
-‎ ‎ ‎ ‎ ‎ 👯 But they call me more by Kiko ... <br>
-‎ ‎ ‎ ‎ ‎ 🌱 I’m currently learning Java and Python ... <br>
+‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe, but some people know me by "Kiko"... <br>
+‎ ‎ ‎ ‎ ‎ 🧠 I'm fascinated by the power of the human mind ... <br>
+‎ ‎ ‎ ‎ ‎ 🎓 I have a degree in Psychology, currently studying Cognitive Science. <br>
+‎ ‎ ‎ ‎ ‎ 🚀 My passion for programming began with *Java*... <br>
+‎ ‎ ‎ ‎ ‎ 🐍 And Python is therapeutic for me... <br>
 ‎ ‎ ‎ ‎ ‎ 🤖 I have interest in AI and Machine Learning ... <br>
-‎ ‎ ‎ ‎ ‎ 👨‍🎓 I have a degree in Psychology ... <br>
-‎ ‎ ‎ ‎ ‎ 👨‍🎓 And i am also studying Cognitive Science. <br>
+
 
  ##
  
