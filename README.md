@@ -1,15 +1,14 @@
 ## 👋 Hey! Im Kikope 
 
-<img align="left" alt="Kiko-pic" height="160" style="border-radius:50px; margin-right: 20px;" src="https://cdn.discordapp.com/attachments/887771238678810716/1071848220172496966/Kikope.gif">
+<img align="left" alt="Kiko-pic" height="150" style="border-radius:50px; margin-right: 20px;" src="https://cdn.discordapp.com/attachments/887771238678810716/1071848220172496966/Kikope.gif">
 
-<br>
-🙋‍♂️ My name is Felipe Becker dos Santos... 
-<br>
-👯 But they call me more by Kiko ...
-🌱 I’m currently learning Java and Python ...
-🤖 I have interest in AI and Machine Learning ...
-👨‍🎓 I have a degree in Psychology ...
-👨‍🎓 And i am also studying Cognitive Science.
+‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe Becker dos Santos... <br>
+‎ ‎ ‎ ‎ ‎ 👯 But they call me more by Kiko ... <br>
+‎ ‎ ‎ ‎ ‎ 🌱 I’m currently learning Java and Python ... <br>
+‎ ‎ ‎ ‎ ‎ 🤖 I have interest in AI and Machine Learning ... <br>
+‎ ‎ ‎ ‎ ‎ 👨‍🎓 I have a degree in Psychology ... <br>
+‎ ‎ ‎ ‎ ‎ 👨‍🎓 And i am also studying Cognitive Science. <br>
+
 
  ##
   
