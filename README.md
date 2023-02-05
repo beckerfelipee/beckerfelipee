@@ -9,7 +9,6 @@
 ‎ ‎ ‎ ‎ ‎ 👨‍🎓 I have a degree in Psychology ... <br>
 ‎ ‎ ‎ ‎ ‎ 👨‍🎓 And i am also studying Cognitive Science. <br>
 
-
  ##
   
  <div> 
