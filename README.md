@@ -8,7 +8,7 @@
 ‎ ‎ ‎ ‎ ‎ 🎓 I have a degree in Psychology, currently studying Cognitive Science. <br>
 ‎ ‎ ‎ ‎ ‎ 🐍 Python is my therapy, but i'm always exploring other languages... <br>
 ‎ ‎ ‎ ‎ ‎ 🤖 I have interest in AI and Machine Learning ... <br>
-‎ ‎ ‎ ‎ ‎ 🤖 Working in progress ... <br>
+‎ ‎ ‎ ‎ ‎ 🚀 Working in progress ... <br>
 
 
  ##
