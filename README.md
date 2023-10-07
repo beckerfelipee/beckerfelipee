@@ -1,12 +1,14 @@
 ## 👋 Hey! Im Kikope!
 
-<img align="left" alt="Kiko-pic" height="180" src="https://cdn.discordapp.com/attachments/887771238678810716/1071848220172496966/Kikope.gif">
-
+<!--
+ <img align="left" alt="Kiko-pic" height="180" src="https://cdn.discordapp.com/attachments/887771238678810716/1071848220172496966/Kikope.gif">
+ -->
+ 
 <br>
 ‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe, but some people know me by "Kiko"... <br>
 ‎ ‎ ‎ ‎ ‎ 🧠 I'm fascinated by the power of the human mind ... <br>
 ‎ ‎ ‎ ‎ ‎ 🎓 I have a degree in Psychology, currently studying Cognitive Science. <br>
-     👨🏻‍💻 I currently provide one-on-one programming instruction ... <br>
+‎ ‎ ‎ ‎ ‎ 👨🏻‍💻 I currently provide one-on-one programming instruction ... <br>
 ‎ ‎ ‎ ‎ ‎ 🐍 Python is my therapy, but i'm always exploring new tools... <br>
 ‎ ‎ ‎ ‎ ‎ 🤖 I have interest in AI and Machine Learning ... <br>
 ‎ ‎ ‎ ‎ ‎ 🚀 Working in progress ... <br>
