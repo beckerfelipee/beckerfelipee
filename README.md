@@ -8,7 +8,7 @@
 <br>
 ‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe Becker, but some people know me by "Kiko"... <br>
 ‎ ‎ ‎ ‎ ‎ 🧠 I'm fascinated by the power of the human mind ... <br>
-‎ ‎ ‎ ‎ ‎ 🎓 I hold a degree in Psychology and I'm currently studying Cognitive Science. <br>
+‎ ‎ ‎ ‎ ‎ 🎓 I have a degree in Psychology and I'm currently studying Cognitive Science. <br>
 ‎ ‎ ‎ ‎ ‎ 👨‍💻 I provide one-on-one programming instruction ... <br>
 ‎ ‎ ‎ ‎ ‎ 🐍 Python is my therapy, but i'm always exploring new tools... <br>
 ‎ ‎ ‎ ‎ ‎ 🤖 I have interest in AI and Machine Learning ... <br>
