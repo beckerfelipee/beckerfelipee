@@ -1,9 +1,13 @@
 ## 👋 Hey! Im Kikope!
 
-<img align="right" alt="GPTool" height="90" src="https://cdn.discordapp.com/attachments/896421524200914954/1163545552491917352/GPTool_inside_2.gif?ex=653ff73d&is=652d823d&hm=9f2396099755f173387553503e67048e6d6147a9e91de24431be3253fe5c8674&">
-<a href="https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&" target="_blank">
+<a href="https://kikope.github.io/GPTool-LandingPage/">
+  <img align="right" alt="Python-help" height="95" src="https://cdn.discordapp.com/attachments/896421524200914954/1163556247988076647/GPTool_Logo_1.gif?ex=65400133&is=652d8c33&hm=ac715a93e4b21ef694794adce0339e522a515b375abcaf24370e9d62bef624f4&">
+</a>
+
+<a href="https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&">
   <img align="right" alt="Python-help" height="90" src="https://media.discordapp.net/attachments/770989141134671925/1160181141756706906/image-removebg-preview.png?ex=6533b9e3&is=652144e3&hm=38c9a6a74f7ee108380772ca664e4d2a756213a4e39130489e97fc0806fb8025">
 </a>
+
 
 <br>
 ‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe Becker, but some people know me by "Kiko"... <br>
