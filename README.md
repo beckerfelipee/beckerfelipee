@@ -1,8 +1,8 @@
 ## 👋 Hey! Im Kikope!
 
-<img align="right" alt="GPTool" height="120" src="https://media.discordapp.net/attachments/770989141134671925/1160181803978608651/GPTool_png.png?ex=6533ba81&is=65214581&hm=84585c49eb44f2493965097d2a3158239ce242a64349d3e4cd04bb29125c026f&=">
+<img align="right" alt="GPTool" height="90" src="https://cdn.discordapp.com/attachments/896421524200914954/1163545552491917352/GPTool_inside_2.gif?ex=653ff73d&is=652d823d&hm=9f2396099755f173387553503e67048e6d6147a9e91de24431be3253fe5c8674&">
 <a href="https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&" target="_blank">
-  <img align="right" alt="Python-help" height="95" src="https://media.discordapp.net/attachments/770989141134671925/1160181141756706906/image-removebg-preview.png?ex=6533b9e3&is=652144e3&hm=38c9a6a74f7ee108380772ca664e4d2a756213a4e39130489e97fc0806fb8025">
+  <img align="right" alt="Python-help" height="90" src="https://media.discordapp.net/attachments/770989141134671925/1160181141756706906/image-removebg-preview.png?ex=6533b9e3&is=652144e3&hm=38c9a6a74f7ee108380772ca664e4d2a756213a4e39130489e97fc0806fb8025">
 </a>
 
 <br>
