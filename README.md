@@ -10,7 +10,7 @@
 
 
 <br>
-‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe Becker, but some people know me by "Kiko"... <br>
+‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe, but some people know me by "Kiko"... <br>
 ‎ ‎ ‎ ‎ ‎ 🧠 I'm fascinated by the power of the human mind ... <br>
 ‎ ‎ ‎ ‎ ‎ 🎓 Psychology degree, currently studying Cognitive Science ... <br>
 ‎ ‎ ‎ ‎ ‎ 👨‍💻 I provide one-on-one programming instruction ... <br>
