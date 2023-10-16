@@ -9,7 +9,7 @@
 </a>
 
 
-<br>
+
 ‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe, but some people know me by "Kiko"... <br>
 ‎ ‎ ‎ ‎ ‎ 🎓 Psychology degree, currently studying Cognitive Science ... <br>
 ‎ ‎ ‎ ‎ ‎ 👨‍💻 I provide one-on-one programming instruction ... <br>
@@ -19,7 +19,7 @@
 
  ##
  
- <br>
+
  <div> 
 <!--
     <a href="https://www.youtube.com/channel/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
