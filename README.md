@@ -10,11 +10,11 @@
 
 
 
-‎ ‎ ‎ ‎ ‎ 🙋‍♂️ My name is Felipe, but some people know me by "Kiko"... <br>
-‎ ‎ ‎ ‎ ‎ 🎓 Psychology degree, currently studying Cognitive Science ... <br>
-‎ ‎ ‎ ‎ ‎ 👨‍💻 I provide one-on-one programming instruction ... <br>
-‎ ‎ ‎ ‎ ‎ 🐍 Python is my therapy, but i'm always exploring new tools... <br>
-‎ ‎ ‎ ‎ ‎ 🚀 Work in progress ... <br>
+‎ ‎ ‎ ‎ ‎ 🙋‍♂️ **My name is Felipe, but some people know me by "Kiko"...** <br>
+‎ ‎ ‎ ‎ ‎ 🎓 **I have a Psychology degree and I'm studying Cognitive Science.** <br>
+‎ ‎ ‎ ‎ ‎ 👨‍💻 **I provide one-on-one programming instruction ...** <br>
+‎ ‎ ‎ ‎ ‎ 🐍 **Python is my therapy, but i'm always exploring new tools...** <br>
+‎ ‎ ‎ ‎ ‎ 🚀 **Work in progress ...** <br>
 
 
  ##
