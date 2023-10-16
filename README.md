@@ -1,6 +1,6 @@
 ## 👋 Hey! Im Kikope!
 
-<a href="https://kikope.github.io/GPTool-LandingPage/">
+<a href="https://kikope.github.io/GPTool-LandingPage/" target="_blank">
   <img align="right" alt="Python-help" height="95" src="https://cdn.discordapp.com/attachments/896421524200914954/1163556247988076647/GPTool_Logo_1.gif?ex=65400133&is=652d8c33&hm=ac715a93e4b21ef694794adce0339e522a515b375abcaf24370e9d62bef624f4&">
 </a>
 
