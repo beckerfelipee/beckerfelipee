@@ -39,6 +39,6 @@ src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discor
 <img alt="Node-Js" height="30" width=50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
   
   
-  <!--  
+
   ![Snake animation](https://github.com/Kikope/Kikope/blob/output/github-contribution-grid-snake.svg)
    -->
