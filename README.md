@@ -3,7 +3,7 @@
 # <img alt="newYear" height="70" width="70" src="https://cdn.discordapp.com/attachments/896421524200914954/1190022479004045392/giphy.gif?ex=65a049cc&is=658dd4cc&hm=ec4255580de467ee9c9b34c43a2d141daadca5c194eeaba7cba4ed034c85f02a&"> Happy new Year! 
 
 <a href="https://beckerfelipee.github.io/GPTool-LandingPage/">
-  <img align="right" alt="Python-help" height="95" src="https://cdn.discordapp.com/attachments/896421524200914954/1163556247988076647/GPTool_Logo_1.gif?ex=65400133&is=652d8c33&hm=ac715a93e4b21ef694794adce0339e522a515b375abcaf24370e9d62bef624f4&">
+  <img align="right" alt="Gptool" height="95" src="https://cdn.discordapp.com/attachments/896421524200914954/1163556247988076647/GPTool_Logo_1.gif?ex=65400133&is=652d8c33&hm=ac715a93e4b21ef694794adce0339e522a515b375abcaf24370e9d62bef624f4&">
 </a>
 
 <a href="https://cdn.discordapp.com/attachments/770989141134671925/1160185849334464573/Python_help_-_Aulas_particulares.pdf?ex=6533be45&is=65214945&hm=677f726106df35d432bc6bc649894043d88e37f308f54047fed8e4c00b671dae&">
