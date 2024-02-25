@@ -1,8 +1,10 @@
 
 # <img alt="2" height="55" width="60" src="https://cdn.discordapp.com/attachments/1200737677486608446/1200742311366250576/fire.gif?ex=65c7496b&is=65b4d46b&hm=9e9f35aedb5fbf230f3325643ddf093be1d95bb72916ba41aeb8142194d8d3e8&"> Hey there! 
+
  <a href="https://beckerfelipee.github.io/GPTool-LandingPage/">
   <img align="right" alt="Gptool" height="70" src="https://cdn.discordapp.com/attachments/896421524200914954/1163556247988076647/GPTool_Logo_1.gif?ex=65400133&is=652d8c33&hm=ac715a93e4b21ef694794adce0339e522a515b375abcaf24370e9d62bef624f4&">
 </a>
+
  <a href="https://cdn.discordapp.com/attachments/896421524200914954/1195015972772401192/Python_Help.pdf?ex=65b2745a&is=659fff5a&hm=044a9ba974a5642c0d7eda75435c11a4e1c2636831a38a9ce5d7b0789df57750&">
   <img align="right" alt="Python-help" height="70" src="https://media.discordapp.net/attachments/770989141134671925/1160181141756706906/image-removebg-preview.png?ex=6533b9e3&is=652144e3&hm=38c9a6a74f7ee108380772ca664e4d2a756213a4e39130489e97fc0806fb8025">
 </a>
