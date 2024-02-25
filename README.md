@@ -9,7 +9,7 @@
 
 🙋‍♂️ **My name is Felipe, but some people know me by "Kiko"...** <br>
 🎓 **I have a Psychology degree and I'm studying Cognitive Science.** <br>
-👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.happycode.pt/).** <br>
+👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.happycode.pt/)** <br>
 🐍 **Python is my therapy, but i'm always exploring new tools...** <br>
 🌐 **I am always open to new challenges and opportunities!** <br>
 🚀 **Work in progress ...** <br>
