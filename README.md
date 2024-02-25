@@ -17,7 +17,7 @@
 
  ##
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=github,pycharm,vscode,replit,py,css,html,js,nodejs,bash,bots"> </a> </p>
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=github,pycharm,vscode,replit,py,css,html,js,nodejs,bash"> </a> </p>
 <a href="https://cdn.discordapp.com/attachments/770989141134671925/1160196258691022888/Kikope_Discord.png?ex=6533c7f7&is=652152f7&hm=95c883607f5586049b244be135897da722efa19adeaa7f4a372595650b44147a&" target="_blank"><img 
 height='36' src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 <a href = "mailto:beckerfelipee@gmail.com"><img height='36' src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
