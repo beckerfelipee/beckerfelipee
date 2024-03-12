@@ -11,10 +11,10 @@
 ##
 
  <a href="https://beckerfelipee.github.io/GPTool-LandingPage/">
-  <img align="right" alt="Gptool" height="90" width="120" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/GPTool/GPToolLogo1.gif">
+  <img align="right" alt="Gptool" height="68" width="90" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/GPTool/GPToolLogo1.gif">
 </a>
  <a href="https://cdn.discordapp.com/attachments/896421524200914954/1195015972772401192/Python_Help.pdf?ex=65b2745a&is=659fff5a&hm=044a9ba974a5642c0d7eda75435c11a4e1c2636831a38a9ce5d7b0789df57750&">
-  <img align="right" alt="Python-help" height="90" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
+  <img align="right" alt="Python-help" height="68" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
 </a>
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=github,pycharm,vscode,replit,py,css,html,js,nodejs,bash"> </a> </p>
 <a href="https://cdn.discordapp.com/attachments/770989141134671925/1160196258691022888/Kikope_Discord.png?ex=6533c7f7&is=652152f7&hm=95c883607f5586049b244be135897da722efa19adeaa7f4a372595650b44147a&" target="_blank"><img 
