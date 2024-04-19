@@ -2,10 +2,11 @@
 # <img alt="img" height="55" width="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/fire.gif"> Hey there! 
 
 🙋‍♂️ **My name is Felipe, but some people know me by "Kiko"...** <br>
-🎓 **I have a Psychology degree and I'm studying Cognitive Science.** <br>
+🎓 **I have a degree in Psychology and a background in Cognitive Science research.** <br>
 👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.happycode.pt/)** <br>
 🐍 **Python is my therapy, but i'm always exploring new tools...** <br>
 🌐 **I am always open to new challenges and opportunities!** <br>
+🌱 **I am currently seeking my first job as a developer!** <br>
 🚀 **Work in progress ...** <br>
 
 ##
