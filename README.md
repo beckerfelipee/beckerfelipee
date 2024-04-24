@@ -14,7 +14,7 @@
  <a href="https://beckerfelipee.github.io/GPTool-LandingPage/">
   <img align="right" alt="Gptool" height="60" width="80" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/GPTool/GPToolLogo1.gif">
 </a>
- <a href="https://cdn.discordapp.com/attachments/896421524200914954/1195015972772401192/Python_Help.pdf?ex=65b2745a&is=659fff5a&hm=044a9ba974a5642c0d7eda75435c11a4e1c2636831a38a9ce5d7b0789df57750&">
+ <a href="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/Python%20Help.png">
   <img align="right" alt="Python-help" height="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
 </a>
 <p align="left"> <img src="https://skillicons.dev/icons?i=github,pycharm,vscode,replit,py,css,html,js,nodejs"> </p>
