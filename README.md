@@ -4,10 +4,12 @@
 🙋‍♂️ **My name is Felipe, but some people know me by "Kiko"...** <br>
 🎓 **I have a degree in Psychology and a background in Cognitive Science research.** <br>
 👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.happycode.pt/)** <br>
-🐍 **Python is my therapy, but i'm always exploring new tools...** <br>
+💪 **I am dedicated to helping people overcome their challenges!** <br>
 🌐 **I am always open to new challenges and opportunities!** <br>
-🌱 **I am currently seeking my first job as a developer!** <br>
 🚀 **Work in progress ...** <br>
+
+<!-- 🐍 **Python is my therapy, but i'm always exploring new tools...** <br> -->
+<!-- 🌱 **I am currently seeking my first job as a developer!** <br> -->
 
 ##
 
