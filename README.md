@@ -3,7 +3,7 @@
 
 🙋‍♂️ **My name is Felipe, but some people know me by "Kiko"...** <br>
 🎓 **I have a degree in Psychology and a background in Cognitive Science research.** <br>
-👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.happycode.pt/)** <br>
+👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.linkedin.com/company/happycodept/)** <br>
 💪 **I am dedicated to helping people overcome their challenges!** <br>
 🌐 **I am always open to new challenges and opportunities!** <br>
 🚀 **Work in progress ...** <br>
