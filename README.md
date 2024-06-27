@@ -9,7 +9,7 @@
 🚀 **Work in progress ...** <br>
 
 <!-- 🐍 **Python is my therapy, but i'm always exploring new tools...** <br> -->
-<!-- 🌱 **I am currently seeking my first job as a developer!** <br> -->
+
 
 ##
 
