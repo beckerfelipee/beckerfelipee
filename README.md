@@ -5,9 +5,10 @@
 🎓 **I have a degree in Psychology and a background in Cognitive Science research.** <br>
 👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.linkedin.com/company/happycodept/)** <br>
 💪 **I am dedicated to helping people overcome their challenges!** <br>
-🌐 **I am always open to new challenges and opportunities!** <br>
+💼 **I am actively seeking a developer position where I can grow and contribute my skills!** <br>
 🚀 **Work in progress ...** <br>
 
+<!-- 🌐 **I am always open to new challenges and opportunities!** <br> -->
 <!-- 🐍 **Python is my therapy, but i'm always exploring new tools...** <br> -->
 
 
