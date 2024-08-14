@@ -24,7 +24,7 @@
 </a>
 
 <!-- Icons --> 
-<p align="left"> <img src="https://skillicons.dev/icons?i=github,pycharm,vscode,py,css,html,js,nodejs">&nbsp;&nbsp;<img height="55" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/OutsystemsProjects/Misc/Reactive%20Badge.png"> </p>
+<p align="left"> <img height="50" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/OutsystemsProjects/Misc/Reactive%20Badge.png">&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=github,py,css,html,js,nodejs"> </p>
 
 <!-- Discord --> 
 <a href="https://cdn.discordapp.com/attachments/770989141134671925/1160196258691022888/Kikope_Discord.png?ex=6533c7f7&is=652152f7&hm=95c883607f5586049b244be135897da722efa19adeaa7f4a372595650b44147a&" target="_blank"><img 
