@@ -1,7 +1,7 @@
 
 # <img alt="img" height="55" width="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/fire.gif"> Hey there! 
 
-🙋‍♂️ **My name is Felipe, but some people know me by "Kiko"...** <br>
+🙋‍♂️ **My name is Felipe, but some people know me by "Kiko"...** <br> 
 👀 **I am seeking a developer position where I can grow and contribute my skills!** <br>
 👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.linkedin.com/company/happycodept/)** <br>
 💪 **I am dedicated to helping people overcome their challenges!** <br>
