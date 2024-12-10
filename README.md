@@ -31,6 +31,6 @@
 height='36' src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 &nbsp;--> 
 <a href="https://www.linkedin.com/in/felipebeckersantos/" target="_blank"><img height='36' margin-left=100 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-&nbsp;<a href='https://www.buymeacoffee.com/beckerfelipee' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/BuyMeCoffee.png' border='0' alt='Buy Me a Coffee' /></a>
+<!-- &nbsp;<a href='https://www.buymeacoffee.com/beckerfelipee' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/BuyMeCoffee.png' border='0' alt='Buy Me a Coffee' /></a> --> 
 
 
