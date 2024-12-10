@@ -1,12 +1,12 @@
 
 # <img alt="img" height="55" width="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/fire.gif"> Hey there!
 
-🙋‍♂️ **My name is Felipe, but some people know me by "Kiko"...** <br> 
-👀 **I am seeking a developer position where I can grow and contribute my skills!** <br>
-👨‍💻 **I provide programming instruction and currently work at [Happy Code Portugal](https://www.linkedin.com/company/happycodept/)** <br>
-💪 **I am dedicated to helping people overcome their challenges!** <br>
-🌐 **I am always open to new challenges and opportunities!** <br> 
-🚀 **Work in progress ...** <br>
+🙋‍♂️ **Hello! My name is Felipe, but some people know me as "Kiko"...** <br>  
+👨‍💻 **I currently work as a developer at [Capgemini](https://www.capgemini.com/pt-en/)** <br>  
+📚 **I love learning and sharing knowledge about programming and technology!** <br>  
+💪 **I am dedicated to helping people overcome their challenges and achieve their goals.** <br>  
+🌐 **I am always open to new opportunities, ideas, and collaborations!** <br>  
+🚀 **Work in progress... The journey continues!** <br>
 
 <!-- 💼 **I am actively seeking a developer position where I can grow and contribute my skills!** <br> -->
 <!-- 🌐 **I am always open to new challenges and opportunities!** <br> -->
