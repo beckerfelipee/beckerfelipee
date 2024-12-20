@@ -3,7 +3,7 @@
 
 🙋‍♂️ **Hello! My name is Felipe, but some people know me as "Kiko"...** <br>
 👨‍💻 **I currently work as a developer at [Capgemini](https://www.capgemini.com/pt-en/).** <br>
-📚 **I love learning and sharing knowledge about programming and technology!** <br>
+📚 **I love learning and sharing knowledge about programming and technology!** <br> 
 💪 **I am dedicated to helping people overcome their challenges and achieve their goals.** <br>
 🌐 **I am always open to new opportunities, ideas, and collaborations!** <br>
 🚀 **Work in progress... The journey continues!** <br>
