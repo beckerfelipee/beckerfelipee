@@ -1,24 +1,27 @@
 
 # <img alt="img" height="55" width="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/fire.gif"> Hey there!
 
-🙋‍♂️ **Hello! My name is Felipe, but some people know me as "Kiko"...** <br>
-👨‍💻 **I currently work as a developer at [Capgemini](https://www.capgemini.com/pt-en/).** <br>
-📚 **I love learning and sharing knowledge about programming and technology!** <br> 
-💪 **I am dedicated to helping people overcome their challenges and achieve their goals.** <br>
-🌐 **I am always open to new opportunities, ideas, and collaborations!** <br>
-🚀 **Work in progress... The journey continues!** <br>
 
+
+🙋‍♂️ **Hello! My name is Felipe.** <br>
+👨‍💻 **I'm a passionate software developer, currently contributing my skills at [Capgemini](https://www.capgemini.com/pt-en/).** <br>
+📚 **I thrive on learning and sharing knowledge about programming and technology.** <br> 
+💪 **I am committed to helping others overcome challenges and achieve their goals.** <br>
+🌐 **I am always open to new opportunities, ideas, and collaborations!** <br>
+
+<!-- 🚀 **Work in progress... The journey continues!** <br> -->
 <!-- 💼 **I am actively seeking a developer position where I can grow and contribute my skills!** <br> -->
-<!-- 🌐 **I am always open to new challenges and opportunities!** <br> -->
 <!-- 🐍 **Python is my therapy, but i'm always exploring new tools...** <br> -->
 <!-- 🎓 **I have a degree in Psychology and a background in Cognitive Science research.** <br> -->
 
 
 ##
-
+<!--
  <a href="https://beckerfelipee.github.io/GPTool-LandingPage/">
   <img align="right" alt="Gptool" height="60" width="80" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/GPTool/GPToolLogo1.gif">
 </a>
+-->
+
  <a href="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/Python%20Help.png">
   <img align="right" alt="Python-help" height="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
 </a>
