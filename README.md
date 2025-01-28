@@ -33,7 +33,10 @@
 <!-- Icons --> 
 
 <!-- Low Code --> 
-<p align="left"> <img height="80" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/OutsystemsProjects/Misc/Reactive%20Badge.png">&nbsp;&nbsp; </p>
+<p align="left"> 
+ <img alt="Reactive badge" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/OutsystemsProjects/Misc/Reactive%20Badge%20new.png">&nbsp;&nbsp;
+ <img alt="Sales badge" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/OutsystemsProjects/Misc/sales%20badge.png">&nbsp;&nbsp; 
+</p>
 
  <!-- Traditional Code --> 
 <p align="left"> <img src="https://skillicons.dev/icons?i=github,py,css,html,js,nodejs,cs,dotnet"> <a href="https://www.linkedin.com/in/felipebeckersantos/" target="_blank"> </p>
