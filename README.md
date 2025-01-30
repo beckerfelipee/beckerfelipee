@@ -43,7 +43,7 @@
 <a href="https://www.linkedin.com/in/felipebeckersantos/" target="_blank"><img align="right" height='36' margin-left=100 src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  <!-- Traditional Code --> 
-<p align="left"> <img src="https://skillicons.dev/icons?i=github,py,css,html,js,nodejs,cs,dotnet"> <a href="https://www.linkedin.com/in/felipebeckersantos/" target="_blank"> </p>
+<p align="left"> <img src="https://skillicons.dev/icons?i=github,py,html,css,js,nodejs,cs,dotnet"> <a href="https://www.linkedin.com/in/felipebeckersantos/" target="_blank"> </p>
 
 
 
