@@ -11,9 +11,7 @@
 <!-- 🐍 **Python is my therapy, but i'm always exploring new tools...** <br> -->
 <!-- 🎓 **I have a degree in Psychology and a background in Cognitive Science research.** <br> -->
 
-
 ##
-
 
 <!-- Services --> 
 
