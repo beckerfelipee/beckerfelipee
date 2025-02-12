@@ -4,7 +4,7 @@
 👨‍💻 **I'm a passionate software developer, currently contributing my skills at [Capgemini](https://www.capgemini.com/pt-en/).** <br>
 📚 **I thrive on learning and sharing knowledge about programming and technology.** <br> 
 💪 **I am committed to helping others overcome challenges and achieve their goals.** <br>
-🌐 **I am always open to new opportunities, ideas, and collaborations!** <br>
+🌐 **I am always open to new opportunities, ideas, and collaborations!** <br> 
 
 <!-- 🚀 **Work in progress... The journey continues!** <br> -->
 <!-- 💼 **I am actively seeking a developer position where I can grow and contribute my skills!** <br> -->
