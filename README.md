@@ -23,7 +23,7 @@
 -->
 
 <!-- Python help --> 
- <a href="https://beckerfelipee.github.io/PythonHelp-LandingPage/">
+<a href="https://beckerfelipee.github.io/PythonHelp-LandingPage/" target="_blank">
   <img align="right" alt="Python-help" height="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/PythonHelp/PythonHelp.png">
 </a>
 
