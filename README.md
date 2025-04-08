@@ -1,10 +1,8 @@
-# <img alt="img" height="55" width="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/fire.gif"> Hey there!
+# <img alt="img" height="55" width="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/fire.gif"> Hi, I'm Felipe!
 
-🙋‍♂️ **Hello! My name is Felipe.** <br>
-👨‍💻 **I'm a passionate software developer, currently contributing my skills at [Capgemini](https://www.capgemini.com/pt-en/).** <br>
-📚 **I thrive on learning and sharing knowledge about programming and technology.** <br> 
-💪 **I am committed to helping others overcome challenges and achieve their goals.** <br>
-🌐 **I am always open to new opportunities, ideas, and collaborations!** <br> 
+👨‍💻 **Software developer at [Capgemini](https://www.capgemini.com/pt-en/), currently focused on generative AI.**  
+📚 **Passionate about learning and sharing knowledge in programming and technology.**  
+🌐 **Open to new opportunities and collaborations!**
 
 <!-- 🚀 **Work in progress... The journey continues!** <br> -->
 <!-- 💼 **I am actively seeking a developer position where I can grow and contribute my skills!** <br> -->
