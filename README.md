@@ -1,13 +1,14 @@
 # <img alt="img" height="55" width="60" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/Misc/fire.gif"> Hi, I'm Felipe!
 
-👨‍💻 **Software developer at [Capgemini](https://www.capgemini.com/pt-en/), currently focused on generative AI.**  
-📚 **Passionate about learning and sharing knowledge in programming and technology.**  
-🌐 **Open to new opportunities and collaborations!**
+👨‍💻 **Software Engineer at [Capgemini](https://www.capgemini.com/pt-en/), focused on generative AI.**  
+🎓 **Background in Cognitive Science research.**  
+📚 **Always learning. Always sharing.**  
+🤝 **Open to challenges and collaborations.**
 
 <!-- 🚀 **Work in progress... The journey continues!** <br> -->
 <!-- 💼 **I am actively seeking a developer position where I can grow and contribute my skills!** <br> -->
 <!-- 🐍 **Python is my therapy, but i'm always exploring new tools...** <br> -->
-<!-- 🎓 **I have a degree in Psychology and a background in Cognitive Science research.** <br> -->
+<!-- 🎓 **I have a background in Cognitive Science research.** <br> -->
 
 ##
 
