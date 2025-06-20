@@ -44,7 +44,7 @@
  <img alt="Sales badge" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/OutsystemsProjects/Misc/sales%20badge.png">&nbsp;&nbsp; 
  -->
  <img alt="Github Copilot badge" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/main/OutsystemsProjects/Misc/Copilot%20Badge.png">&nbsp;&nbsp; 
- <img alt="PCEP badge" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/refs/heads/main/OutsystemsProjects/Misc/PCEP-Badge.png">&nbsp;&nbsp; 
+ <img alt="PCEP badge" height="68" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/refs/heads/main/OutsystemsProjects/Misc/PCEP-Badge.png">&nbsp;&nbsp; 
  <img alt="Python IBM badge" height="70" src="https://raw.githubusercontent.com/beckerfelipee/ImagesDB/refs/heads/main/OutsystemsProjects/Misc/badge_python_IBM-removebg-preview.png">&nbsp;&nbsp; 
 </p>
 
